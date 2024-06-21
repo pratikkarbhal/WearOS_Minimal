@@ -1,6 +1,6 @@
 ## [DOWNLOAD APK ⬇️](https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk)
 #
-Download .apk to check out the unique watch-face designed for Samsung galaxy watches. 
+Transfer .apk to your Samsung galaxy watch and check out this unique watchface. 
 
 ## Final Mockups
 <img src="Mockup1.png" width="200" />____<img src="Mockup2.png" width="200" />
@@ -10,3 +10,7 @@ Download .apk to check out the unique watch-face designed for Samsung galaxy wat
 
 # Making...
 ![Watch Face Studio](WFStudio.png)
+
+#
+#
+(25$ for Playstore listing 😭. Thus, Github)
