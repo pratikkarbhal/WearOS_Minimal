@@ -1,4 +1,4 @@
-<button>Download APK</button>
+<button src="https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk">Download APK</button>
 Download .apk to check out the unique watch-face designed for Samsung galaxy watches. 
 
 ## Final Mockups
