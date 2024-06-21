@@ -1,4 +1,4 @@
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+![DOWNLOAD APK ⬇️](https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk)
 <input type="button" src="https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk">Download APK</input>
 Download .apk to check out the unique watch-face designed for Samsung galaxy watches. 
 
