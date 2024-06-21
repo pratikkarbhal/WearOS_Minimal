@@ -1,4 +1,4 @@
-## ![DOWNLOAD APK ⬇️](https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk)
+## [DOWNLOAD APK ⬇️](https://github.com/pratikkarbhal/WearOS_Minimal/raw/main/com.pratikkarbhal.watchface.apk)
 #
 Download .apk to check out the unique watch-face designed for Samsung galaxy watches. 
 
