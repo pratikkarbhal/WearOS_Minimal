@@ -3,10 +3,11 @@
 Transfer .apk to your Samsung galaxy watch and check out this unique watchface. 
 
 ## Final Mockups
+
+(Watch face tested on samsung galaxy watch 4.)
 <img src="mockup2.png" width="200" />   <img src="mockup1.gif" width="250" /> 
 
-(Extra complications used from @amoledwatchfaces on playstore (WearOS logo). 
- Watch face tested on samsung galaxy watch 4.)
+(Watch face tested on samsung galaxy watch 4.)
 
 # Making...
 ![Watch Face Studio](WFStudio.png)
