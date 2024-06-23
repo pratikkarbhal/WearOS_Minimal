@@ -4,7 +4,7 @@ Transfer .apk to your Samsung galaxy watch and check out this unique watchface.
 
 ## Final Mockups 
 <img src="mockup2.png" width="200" />   <img src="AODmockup.png" width="200" />
-<img src="mockup1.gif" width="250" /> 
+<img src="mockup1.gif" width="300" /> 
 
 (Watch face tested on samsung galaxy watch 4.)
 
