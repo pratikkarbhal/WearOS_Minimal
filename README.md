@@ -20,3 +20,5 @@ Transfer .apk to your Samsung galaxy watch and check out this unique watchface.
 #
 #
 (25$ for Playstore listing 😭. Thus, Github)
+
+Mail me in case of queries...
