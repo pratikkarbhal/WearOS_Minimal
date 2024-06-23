@@ -3,8 +3,6 @@
 Transfer .apk to your Samsung galaxy watch and check out this unique watchface. 
 
 ## Final Mockups
-
-(Watch face tested on samsung galaxy watch 4.)
 <img src="mockup2.png" width="200" />   <img src="mockup1.gif" width="250" /> 
 
 (Watch face tested on samsung galaxy watch 4.)
